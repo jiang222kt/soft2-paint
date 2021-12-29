@@ -23,3 +23,16 @@ void reset_canvas(Canvas *c)
 ```
 
 ## 発展課題
+### 色変更
+- 文字種の色を変更できるようにした。"chpen"のようにコマンドを入力したあとに色の変更が反映されるように、Canvas内のセルに色
+
+| コマンド | 色 |
+----|---- 
+| chcolor black | 黒色 |
+| chcolor red | 赤色 |
+| chcolor green | 緑色 | 
+| chcolor yellow | 黄色 |
+| chcolor blue | 青色 |
+| chcolor magenta | マゼンダ |
+| chcolor cyan | シアン |
+| chcolor white | 白色 |
