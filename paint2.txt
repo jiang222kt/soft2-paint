@@ -1,0 +1,14 @@
+circle 30 20 5
+rect 25 15 35 25
+circle 10 10 10
+rect 35 25 45 35
+line 10 10 20 20
+line 10 10 0 0
+line 10 10  0 20
+line 20 20 10 30
+line 0 20 10 30
+circle 10 35 5
+line 10 10 40 10
+circle 10 40 5
+circle 40 10 5
+circle 55 35 5
